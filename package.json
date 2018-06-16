@@ -1,0 +1,30 @@
+{
+  "name": "eslint-config-maichong",
+  "version": "1.0.0",
+  "description": "Maichong's ESLint config",
+  "main": "index.js",
+  "scripts": {
+    "fix": "eslint --ext .jsx,.js --fix ./",
+    "eslint": "eslint ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maichong/eslint-config-maichong.git"
+  },
+  "author": "Liang <liang@maichong.it> (https://github.com/liangxingchen)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maichong/eslint-config-maichong/issues"
+  },
+  "homepage": "https://github.com/maichong/eslint-config-maichong#readme",
+  "dependencies": {
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-maichong-base": "^1.0.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.9.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "flow-bin": "^0.74.0"
+  }
+}
