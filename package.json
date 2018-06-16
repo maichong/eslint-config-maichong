@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-maichong",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Maichong's ESLint config",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   "homepage": "https://github.com/maichong/eslint-config-maichong#readme",
   "dependencies": {
     "eslint-config-airbnb": "^16.1.0",
-    "eslint-config-maichong-base": "^1.0.0",
+    "eslint-config-maichong-base": "^1.0.1",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.9.1"
   },
