@@ -19,8 +19,10 @@ module.exports = {
     'jsx-a11y/no-autofocus': 0,
     'jsx-a11y/no-noninteractive-element-interactions': 0,
     'jsx-a11y/no-static-element-interactions': 1,
+    'react/button-has-type': 0,
     'react/forbid-prop-types': 0,
     'react/jsx-closing-tag-location': 0,
+    'react/jsx-one-expression-per-line': 0,
     'react/jsx-wrap-multilines': [
       2,
       {
