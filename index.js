@@ -15,6 +15,7 @@ module.exports = {
     ],
     'jsx-a11y/click-events-have-key-events': 0,
     'jsx-a11y/href-no-hash': 'off',
+    'jsx-a11y/label-has-associated-control': 0,
     'jsx-a11y/label-has-for': 1,
     'jsx-a11y/no-autofocus': 0,
     'jsx-a11y/no-noninteractive-element-interactions': 0,

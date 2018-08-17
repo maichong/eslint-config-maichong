@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-maichong",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "Maichong's ESLint config",
   "main": "index.js",
   "scripts": {
@@ -18,14 +18,14 @@
   },
   "homepage": "https://github.com/maichong/eslint-config-maichong#readme",
   "dependencies": {
-    "eslint-config-airbnb": "^17.0.0",
-    "eslint-config-maichong-base": "^1.1.1",
-    "eslint-plugin-jsx-a11y": "^6.1.0",
-    "eslint-plugin-react": "^7.10.0"
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-maichong-base": "^1.2.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.11.1"
   },
   "devDependencies": {
-    "babel-eslint": "^8.2.5",
-    "eslint": "^5.0.1",
-    "flow-bin": "^0.75.0"
+    "babel-eslint": "^8.2.6",
+    "eslint": "^5.3.0",
+    "flow-bin": "^0.79.0"
   }
 }
